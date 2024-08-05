@@ -53,7 +53,7 @@
     "rxjs": "^6.5.2",
     "snakecase-keys": "^3.1.0",
     "tough-cookie": "^2.5.0",
-    "ts-custom-error": "^2.2.2",
+    "ts-custom-error": "^3.3.1",
     "ts-xor": "^1.0.6",
     "url-regex-safe": "^3.0.0",
     "utility-types": "^3.10.0"
